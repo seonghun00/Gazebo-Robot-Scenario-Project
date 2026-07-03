@@ -5,7 +5,7 @@
 > This repository is for designing logistics robot and serving robot work scenarios,  
 and recording the implementation process in a Gazebo simulation environment.
 
-## Purpose
+## 🎯 Purpose
 
 The goal of this project is to organize robot task flows for warehouse and restaurant environments,  
 then implement them step by step in Gazebo.
@@ -13,7 +13,7 @@ then implement them step by step in Gazebo.
 The project will be expanded from basic navigation to obstacle avoidance, exception handling,  
 and multi-robot cooperation.
 
-## Checklist
+## ✅ Checklist
 
 ### Common
 
