@@ -17,16 +17,16 @@ and multi-robot cooperation.
 
 ### Common
 
-- [ ] Set up ROS2 Humble development environment
-- [ ] Build Gazebo simulation environment
-- [ ] Create basic robot URDF model
-- [ ] Add 2D LiDAR sensor
+- [x] Set up ROS2 Humble development environment
+- [x] Build Gazebo simulation environment
+- [x] Create basic robot URDF model
+- [x] Add 2D LiDAR sensor
 - [ ] Generate map using SLAM
 - [ ] Implement Nav2-based waypoint navigation
 
 ### Logistics Robot
 
-- [ ] Build warehouse Gazebo world
+- [x] Build warehouse Gazebo world
 - [ ] Place storage, packing, waiting, and charging zones
 - [ ] Create rack models
 - [ ] Model lift-type robot structure
@@ -36,9 +36,9 @@ and multi-robot cooperation.
 
 ### Serving Robot
 
-- [ ] Build restaurant Gazebo world
-- [ ] Place kitchen, pickup station, tables, waiting, and charging zones
-- [ ] Create serving robot URDF model
+- [x] Build restaurant Gazebo world
+- [x] Place kitchen, pickup station, tables, waiting, and charging zones
+- [x] Create serving robot URDF model
 - [ ] Implement pickup station → table → return navigation
 - [ ] Implement hallway obstacle avoidance scenario
 - [ ] Handle delayed food pickup situation
